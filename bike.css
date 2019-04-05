@@ -1,0 +1,10 @@
+
+.bg{
+
+      background-image:url(bike.jpg);
+      no-repeat;
+      height:220vh;
+      width:100%;
+      background-size: cover;
+     background-position: center;
+}
